@@ -1,0 +1,16 @@
+{
+    "properties": {
+        "name": "getData",
+        "environment": {
+            "type": "noflo-browser",
+            "content": ""
+        },
+        "description": "get json data from github",
+        "icon": ""
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {},
+    "connections": []
+}
